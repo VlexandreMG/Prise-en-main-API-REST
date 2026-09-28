@@ -23,3 +23,12 @@
 
 - **Q7** : Je n'ai aucune idée et je veux pas utiliser chat 
 ---
+
+# Niveau 3 
+
+---
+- **Etape B** : 
+- 1 : GET - show - Afficher un livre spécifique 
+      POST - create - Créer un livre 
+      PATCH/PUT - update - Modifier un livre 
+      DELETE - delete - Supprimer un livre 
