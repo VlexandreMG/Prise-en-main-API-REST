@@ -29,6 +29,7 @@
 ---
 - **Etape B** : 
 - 1 : GET - show - Afficher un livre spécifique 
+      GET - index - Afficher tous les livres 
       POST - create - Créer un livre 
       PATCH/PUT - update - Modifier un livre 
       DELETE - delete - Supprimer un livre 
